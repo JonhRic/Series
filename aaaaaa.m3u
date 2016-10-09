@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://vgboxart.com/resources/logo/8078_the-flash-prev.png",[COLOR red]THE FLASH[/COLOR]
+ 
+#EXTINF:-1 tvg-logo="http://vgboxart.com/resources/logo/8078_the-flash-prev.png",[COLOR yellow]1 - Primeira Temporada[/COLOR]
+ 
+#EXTINF:-1 tvg-logo="http://vgboxart.com/resources/logo/8078_the-flash-prev.png" groud-title="The Flash",Episodio 01 - Piloto
+http://rc.lella.la/vd/dd/RC/RCServer09/ondemand/THEFLSHT01EP01.mp4
